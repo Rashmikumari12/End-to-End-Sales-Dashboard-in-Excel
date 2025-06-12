@@ -1,4 +1,5 @@
-# 📊 End-to-End Sales Dashboard using Excel
+# 📊 End-to-End Sales Dashboard using Excel      ![Dashboard](https://github.com/user-attachments/assets/710faf36-40a5-4e19-bbf3-3a6afefdf94c)
+ng Excel
 
 ## 👋 Introduction
 This project showcases a complete data analysis and reporting solution using Microsoft Excel. From raw data import to interactive dashboards and automated reporting with VBA, it demonstrates Excel’s power for business analytics without needing external tools.
